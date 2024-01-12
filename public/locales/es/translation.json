@@ -1,0 +1,163 @@
+{
+    "translation": {
+        "select": "Selecciona tu idioma preferido: ",
+        "en": "Inglés",
+        "it": "Italiano",
+        "es": "Español"
+    },
+    "navbar": {
+        "menu1": "Community Pro",
+        "menu2": "Proyectos",
+        "menu3": "Servicios y Contacto"
+    },
+    "herohome": {
+        "title": "Guarda tus datos, Ahorra energía, Ahorra tiempo",
+        "description": "Ofrecemos soluciones personalizadas para empresas de todos los tamaños y sectores, ayudándolas a aumentar sus ingresos, mejorar la satisfacción del cliente y mantenerse al día con la competencia. Nuestros servicios incluyen análisis de mercado, análisis de comportamiento del cliente, modelado predictivo y mucho más.",
+        "cta": "Contáctanos"
+    },
+    "serviceshome": {
+        "title": "Somos optimistas que aman trabajar juntos.",
+        "description": "Nuestra empresa está dedicada a ayudarte a alcanzar tus objetivos financieros y a asegurarte un futuro más brillante. Con nuestra amplia gama de servicios, puedes tomar el control de tus inversiones, construir tu marca y mantenerte al día con la curva tecnológica.",
+        "icon1title": "Web3",
+        "icon1description": "Crea aplicaciones Web3 seguras y descentralizadas para un futuro descentralizado.",
+        "icon2title": "IA",
+        "icon2description": "Alcanza el éxito empresarial con análisis de KPI impulsados por IA y conocimientos de datos.",
+        "icon3title": "Hosting",
+        "icon3description": "Experiencia en alojamiento y servicios de correo electrónico confiables y seguros para tu negocio.",
+        "icon4title": "eCommerce",
+        "icon4description": "Crea un eCommerce exitoso y de alto rendimiento con productos ganadores.",
+        "icon5title": "Crypto",
+        "icon5description": "Alcanza el éxito empresarial con análisis de KPI impulsados por IA y conocimientos de datos.",
+        "icon6title": "IIoT",
+        "icon6description": "Crea tu propio SCADA personalizado con tecnologías móviles de AI y análisis.",
+        "icon7title": "Aplicaciones",
+        "icon7description": "Crea aplicaciones Web3 seguras y descentralizadas para un futuro descentralizado.",
+        "icon8title": "Publicidad",
+        "icon8description": "Revolutioniza tu marketing con soluciones publicitarias innovadoras"
+    },
+    "abouthome": {
+        "title": "Éxito del cliente a través del soporte humano",
+        "description": "Eleva la satisfacción y lealtad del cliente con nuestro enfoque completo en el éxito del cliente. Nuestro soporte personalizado y nuestro compromiso con tu éxito nos diferencian y guían relaciones a largo plazo.",
+        "review1": "“Como CEO, recomiendo encarecidamente nuestras soluciones de marketing para impulsar el crecimiento empresarial. Con un enfoque en estrategias basadas en datos y tecnologías innovadoras, nuestro equipo proporciona resultados que superan las expectativas. Su compromiso con el éxito del cliente ha sido un cambio de juego para nuestra empresa.”",
+        "review2": "“Descubre el futuro de la educación con Wewe University, creado por el equipo visionario de lvdere y Diego Endrizzi. Nuestra plataforma ofrece una experiencia de aprendizaje personalizada y atractiva, con cursos guiados por expertos y soporte 24/7. Únete a los miles de estudiantes que han tomado el control de sus carreras con Wewe University. ¡Invierte en tu futuro hoy!”",
+        "review3": "“Es muy importante para nosotros estar siempre actualizados sobre las últimas noticias y navegar libremente en el espacio de información, los recursos de Medialogy nos permiten hacerlo. Todos los días podemos realizar un monitoreo operativo de los medios y analizar los datos en línea, esto ahorra tiempo a los analistas y periodistas.”"
+    },
+    "footerhome": {
+        "subtitle": "Mejora tus habilidades para un futuro mejor",
+        "title": "Solicita más información",
+        "description": "Lvdere es una empresa tecnológica líder en soluciones innovadoras. ¡Obtén más información haciendo clic aquí! Descubre cómo Lvdere está revolucionando la industria.",
+        "cta": "Únete hoy a nuestra comunidad"
+    },
+    "herocommunity": {
+        "title": "Community Pro",
+        "description": "Ofrecemos soluciones personalizadas para empresas de todos los tamaños y sectores, ayudándolas a aumentar sus ingresos, mejorar la satisfacción del cliente y mantenerse al día con la competencia. Nuestros servicios incluyen análisis de mercado, análisis de comportamiento del cliente, modelado predictivo y mucho más.",
+        "cta": "Únete hoy a nuestra comunidad"
+    },
+    "optimisticcommunity": {
+        "title": "Obtén resultados antes del mercado",
+        "description1": "¿Estás cansado de estar siempre un paso atrás del mercado? ¡Nuestra comunidad está aquí para ayudarte! Proporcionamos información confidencial y análisis expertos para ayudarte a mantenerte al día con la curva.",
+        "description2": "Además, nuestra academia ofrece cursos sobre las últimas tecnologías y estrategias de comunicación, para que puedas mantenerte actualizado y competitivo en tu campo. Únete a nosotros hoy y comienza a tomar decisiones más inteligentes e informadas para tu negocio."
+    },
+    "serviceselectcommunity": {
+        "title": "¿Qué obtienes?",
+        "service1title": "Paquete de inicio Web3",
+        "service1description": "¡Desbloquea el potencial de la tecnología Web3 con nuestro paquete de inicio Web3! Nuestro curso Lvdere Academy Pro te enseña cómo usar Ledger Nano S para proteger tus criptomonedas y Notarify para salvaguardar documentos legales a nivel global en web3. ¡Mantente al día con la curva y protege tus activos digitales con nuestro paquete! (El envío de Ledger Nano S y la activación de Notarify Standard están incluidos)",
+        "service2title": "Comunidad exclusiva",
+        "service2description": "¡Bienvenido a nuestra comunidad exclusiva, donde tendrás acceso a información confidencial antes del mercado! Mantente al día con la curva con nuestros conocimientos expertos y análisis, y conecta con personas con intereses similares que comparten tu pasión por la innovación y el crecimiento. Únete a nosotros hoy y desbloquea el poder del conocimiento.",
+        "service3title": "Lvdere Academy Pro",
+        "service3description": "Lvdere Academy Pro ofrece cursos sobre Web3, Crypto, IA y IIoT. Enseñados por expertos del sector, nuestros proyectos prácticos y herramientas de aprendizaje interactivas te ayudarán a dominar estas tecnologías líderes y a obtener una ventaja competitiva en la era digital. Únete a nosotros hoy y conviértete en un líder en el futuro de los negocios.",
+        "service4title": "Webinar y Tutoría en vivo",
+        "service4description": "Únete a nuestros Webinars y sesiones de Tutoría en vivo para obtener una comprensión más profunda de las últimas tecnologías y tendencias que están moldeando el futuro de los negocios. Nuestros instructores expertos te guiarán a través de proyectos prácticos y estudios de casos del mundo real, ayudándote a dominar las habilidades que necesitas para tener éxito en el paisaje digital de hoy en día.",
+        "service5title": "Soporte técnico",
+        "service5description": "En nuestra comunidad exclusiva, ofrecemos dos soportes exclusivos para ayudarte a navegar por el complejo mundo de las tecnologías digitales. Nuestro soporte para la seguridad Crypto ofrece 2 horas al mes de asesoramiento experto para ayudarte a proteger tus activos digitales y garantizar la seguridad de tus transacciones. Nuestro soporte para la implementación de IA ofrece 2 horas al mes de entrenamiento personalizado para guiarte a través del proceso de integración de IA en tu negocio, desde la estrategia hasta la implementación. Únete a nosotros hoy y accede a estas valiosas herramientas.",
+        "step1title": "Únete a nuestra comunidad exclusiva: desbloquea el poder del conocimiento",
+        "step1description": "Únete a nuestra comunidad exclusiva y accede a información confidencial antes del mercado. Conecta con personas con intereses similares y expertos del sector. Además, mantente al día con la curva con nuestros conocimientos expertos y análisis.",
+        "step2title": "Aprende de los mejores: domina las últimas tecnologías",
+        "step2description": "Aprende de expertos del sector con experiencia real en Web3, Crypto, IA e IIoT. Nuestros Webinars y sesiones de Tutoría en vivo te guiarán a través de proyectos prácticos y estudios de casos del mundo real, ayudándote a dominar las habilidades que necesitas para tener éxito en el paisaje digital de hoy en día.",
+        "step3title": "Obtén soporte personalizado: navega por el complejo mundo de las tecnologías digitales",
+        "step3description": "Nuestros soportes exclusivos Crypto Security e Implementación de IA proporcionan 2 horas al mes de asesoramiento experto para ayudarte a proteger tus activos digitales, garantizar la seguridad de tus transacciones y guiarte a través del proceso de integración de IA en tu negocio. Únete a nosotros hoy y accede a estas valiosas herramientas.",
+        "cta": "Únete hoy a nuestra comunidad"
+    },
+    "videosectioncommunity": {
+        "card1number": "Videos y ejercicios",
+        "card2number": "Emprendedores e inversores",
+        "card3number": "Webinars y reuniones",
+        "card4number": "Intervenciones técnicas"
+    },
+    "faqcommunity": {
+        "faqtitle": "Preguntas frecuentes: Community Pro",
+        "faqsubtitle": "Donde respondemos tus preguntas sobre nuestra academia y comunidad exclusiva",
+        "question1": "¿Qué es Community Pro?",
+        "answer1": "Community Pro es nuestra comunidad exclusiva para individuos y empresas que buscan mantenerse al día con la curva en la era digital. Los miembros obtienen acceso a información confidencial, análisis expertos y soporte personalizado para ayudarlos a tener éxito.",
+        "question2": "¿Qué tipo de valor ofrece Community Pro?",
+        "answer2": "Community Pro ofrece una variedad de beneficios, como acceso a nuestros cursos académicos sobre Web3, Crypto, IA e IIoT, soportes exclusivos para la seguridad Crypto y la implementación de IA, y sesiones de Webinar y Tutoría en vivo con expertos del sector.",
+        "question3": "¿Cómo puede Community Pro ayudarme a avanzar en mi carrera o negocio?",
+        "answer3": "Al unirte a Community Pro, obtendrás acceso a una red de individuos y expertos del sector con intereses similares. También tendrás acceso a las últimas tecnologías y tendencias líderes, lo que te ayudará a mantenerte al día con la curva y convertirte en un líder en tu sector.",
+        "question4": "¿Qué está incluido en la suscripción a Community Pro?",
+        "answer4": "La suscripción a Community Pro incluye acceso a nuestros cursos académicos, soportes exclusivos para la seguridad Crypto y la implementación de IA, sesiones de Webinar y Tutoría en vivo, y una serie de otros beneficios. Ofrecemos planes anuales y trimestrales para satisfacer tus necesidades.",
+        "question5": "¿Cómo puedo unirme a Community Pro?",
+        "answer5": "Puedes unirte a Community Pro visitando nuestro sitio web y seleccionando el plan de suscripción que mejor se adapte a tus necesidades. Ofrecemos opciones de precios flexibles y una variedad de beneficios para ayudarte a tener éxito. ¡Únete a nosotros hoy y desbloquea el poder del conocimiento!"
+    },
+    "faqsubscription": {
+        "faqtitle": "Preguntas frecuentes: suscripción",
+        "faqsubtitle": "Donde respondemos tus preguntas sobre nuestra academia y la comunidad exclusiva",
+        "question1": "¿Qué opciones de pago ofrecen?",
+        "answer1": "Aceptamos todas las principales tarjetas de crédito, incluyendo Visa, Mastercard y American Express. También ofrecemos la opción de pagar a través de PayPal.",
+        "question2": "¿Cuál es la diferencia entre los planes Anuales y Trimestrales?",
+        "answer2": "El plan Anual ofrece un año completo de acceso a nuestros cursos a un precio con descuento de 997 €. El plan Trimestral ofrece 3 meses de acceso al precio de 297 €. Ambos planes ofrecen los mismos cursos y funcionalidades.",
+        "question3": "¿Puedo cambiar entre planes?",
+        "answer3": "Sí, puedes cambiar entre planes en cualquier momento. Si cambias del plan Trimestral al plan Anual, facturaremos el pago en función del tiempo restante en tu suscripción actual.",
+        "question4": "¿Hay una prueba gratuita disponible?",
+        "answer4": "Actualmente no ofrecemos una prueba gratuita, pero ofrecemos una garantía de devolución de dinero dentro de los 30 días. Si no estás satisfecho con nuestros cursos, te reembolsaremos el pago completo.",
+        "question5": "¿Cómo puedo cancelar mi suscripción?",
+        "answer5": "Puedes cancelar tu suscripción en cualquier momento contactando a nuestro servicio al cliente. Si cancelas dentro de los primeros 30 días, te reembolsaremos el pago completo. Después de 30 días, no ofreceremos reembolsos por cancelaciones."
+    },
+    "cardcommunity": {
+        "plan1": "Plan Trimestral",
+        "plan2": "Plan Anual",
+        "price1": "297 € / cada 3 meses",
+        "price2": "997 € / año",
+        "plan1bullet1": "Paquete de inicio de Web 3 (incluye Ledger Nano S y Notarify Standard)",
+        "plan1bullet2": "Comunidad exclusiva en la aplicación",
+        "plan1bullet3": "Lvdere Academy Pro",
+        "plan1bullet4": "Seminarios web y tutorías en vivo",
+        "plan1bullet5": "2 horas de soporte técnico personal al mes",
+        "plan2bullet1": "Todo del Plan Trimestral",
+        "plan2bullet2": "+20% de descuento anual",
+        "plan2bullet3": "Eventos exclusivos",
+        "plan2bullet4": "Soporte prioritario",
+        "plan2bullet5": "4 horas de soporte técnico personal al mes",
+        "cta1text": "Regístrate ahora",
+        "cta2text": "Regístrate ahora"
+    },
+    "portfolioprojects": {
+        "title": "Proyectos y clientes",
+        "subtitle": "Nuestros servicios incluyen análisis KPI alimentados por IA, publicidad innovadora, aplicaciones web3 seguras, alojamiento y correo electrónico confiables y un compromiso con el éxito del cliente. Ofrecemos una solución completa para el crecimiento financiero y el avance tecnológico.",
+        "description1": "WeeBo es una empresa de alojamiento web italiana con sede en Trentino que se especializa en aumentar la velocidad y el rendimiento de los sitios web en Italia. Con las soluciones de alojamiento de vanguardia de WeeBo, las empresas italianas pueden disfrutar de tiempos de carga del sitio web rápidos y confiables, brindando una experiencia sin interrupciones para sus usuarios. El compromiso de WeeBo con la calidad y el servicio lo convierten en la mejor opción para el alojamiento web en Trentino.",
+        "description2": "Travel Fly Store es una plataforma de comercio electrónico especializada en ofrecer a los usuarios lo último y lo mejor en gadgets y accesorios para viajes. Desde equipaje inteligente hasta elementos esenciales de viaje compactos, Travel Fly Store tiene todo lo que necesitas para hacer tus viajes más fáciles y agradables. Con un sitio web fácil de usar, envíos rápidos y un compromiso con la calidad, Travel Fly Store es el destino ideal para los viajeros que quieren volar con estilo. Ya sea que vayas a trabajar o que emprendas una gran aventura, Travel Fly Store te tiene cubierto.",
+        "description3": "Utilizamos anuncios de TikTok para dirigirnos a una audiencia italiana altamente comprometida, aumentando la conciencia y el interés en Centro Estetico Andino. Al mostrar estratégicamente los servicios y promociones del centro de belleza, pudimos aumentar el tráfico y generar nuevos negocios. Nuestro enfoque basado en datos y nuestra experiencia en publicidad en redes sociales nos permitieron llegar eficazmente al público adecuado, obteniendo una campaña exitosa y un aumento del tráfico para nuestro cliente.",
+        "description4": "Ayudamos a Au Zealous, una empresa española de inversión en metales preciosos, a aumentar su visibilidad en línea y a atraer a más inversores con estrategias de marketing digital dirigidas. Nuestro enfoque basado en datos y nuestra experiencia en el sector llevaron a un aumento significativo del tráfico del sitio web y la generación de clientes potenciales, aumentando la reputación de Au Zealous como una empresa de inversión confiable.",
+        "cta": "Contáctanos"
+    },
+    "servicecontact": {
+        "title": "EMPIEZA YA y haz realidad tu proyecto con nosotros",
+        "description": "Nuestra empresa está dedicada a ayudarte a alcanzar tus objetivos financieros y asegurarte un futuro mejor. Con nuestra amplia gama de servicios, puedes tomar el control de tus inversiones, construir tu marca y mantenerte a la vanguardia de la curva tecnológica.",
+        "icon1title": "Web3",
+        "icon1description": "Crea aplicaciones web3 descentralizadas y seguras para un futuro descentralizado.",
+        "icon2title": "IA",
+        "icon2description": "Alcanza el éxito empresarial con análisis KPI impulsados por IA e información de datos.",
+        "icon3title": "Alojamiento",
+        "icon3description": "Experimenta servicios de alojamiento y correo electrónico confiables y seguros para tu negocio.",
+        "icon4title": "Comercio electrónico",
+        "icon4description": "Crea un comercio electrónico de éxito con productos ganadores",
+        "icon5title": "Crypto",
+        "icon5description": "Alcanza el éxito empresarial con análisis KPI impulsados por IA e información de datos.",
+        "icon6title": "IIoT",
+        "icon6description": "Crea tu propio SCADA personalizado con tecnologías móviles de análisis y AI.",
+        "icon7title": "Aplicaciones",
+        "icon7description": "Crea aplicaciones web3 descentralizadas y seguras para un futuro descentralizado.",
+        "icon8title": "Publicidad",
+        "icon8description": "Revolutionize your marketing with innovative advertising solutions",
+        "start": "Empezar"
+    }
+}

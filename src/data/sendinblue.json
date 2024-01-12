@@ -1,0 +1,55 @@
+{
+    "subscription": {
+        "title": "Regalati 30 Minuti del tuo Tempo",
+        "shortDesc": "Nei prossimi 7 giorni ti mostreremo come:",
+        "bigIdea": "Trasformare il caso in destino",
+        "img": "/assets/img/sendinblue/impactimage.webp",
+        "downloadTitle": "Where to download?",
+        "downloadDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's typesetting industry standard dummy text ever since the typesetting.",
+        "buttons": [
+            {
+                "btnlabel": "Get now",
+                "icon": "fa fa-apple",
+                "url": "#",
+                "animation": "3s"
+            },
+            {
+                "btnlabel": "Get now",
+                "icon": "fa fa-android",
+                "url": "#",
+                "animation": "3s"
+            },
+            {
+                "btnlabel": "Get now",
+                "icon": "fa fa-windows",
+                "url": "#",
+                "animation": "3s"
+            }
+        ]
+    },
+
+    "downloadApps": {
+        "sectionHeading": {
+            "title": "Download <span>SANDY</span> from your flatform",
+            "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+        },
+        "bgImg": "/assets/img/flat-devices.png",
+        "buttons": [
+            {
+                "btnlabel": "Get now<span>App store</span>",
+                "icon": "fa fa-apple",
+                "url": "#"
+            },
+            {
+                "btnlabel": "Get now<span>App store</span>",
+                "icon": "fa fa-android",
+                "url": "#"
+            },
+            {
+                "btnlabel": "Get now<span>App store</span>",
+                "icon": "fa fa-windows",
+                "url": "#"
+            }
+        ]
+    }
+}

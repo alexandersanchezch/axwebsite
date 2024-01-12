@@ -1,0 +1,193 @@
+{
+    "translation": {
+        "select": "Select your preferred Language: ",
+        "en": "English",
+        "it": "Italiano",
+        "es": "Español"
+    },
+
+    "navbar": {
+        "menu1": "Community Pro",
+        "menu2": "Projects",
+        "menu3": "Services & Contact"
+    },
+
+    "herohome": {
+        "title": "Save Data, Save Energy, Save Time",
+        "description": "We offer customized solutions for businesses of all sizes and industries, helping them to increase revenue, improve customer satisfaction, and stay ahead of the competition. Our services include market analysis, customer behavior analysis, predictive modeling, and more.",
+        "cta": "Contact Us"
+    },
+    "serviceshome": {
+        "title": "We Are Optimistics Who Love To Work Together.",
+        "description": "Our company is dedicated to helping you reach your financial goals and secure a brighter future. With our comprehensive range of services, you can take control of your investments, build your brand, and stay ahead of the technological curve.",
+        "icon1title": "Web3",
+        "icon1description": "Build secure, decentralized Web3 applications for a decentralized future.",
+        "icon2title": "AI",
+        "icon2description": "Achieve business success with AI-powered KPI analysis and data insights.",
+        "icon3title": "Hosting",
+        "icon3description": "Experience reliable and secure hosting and email services for your business.",
+        "icon4title": "eCommerce",
+        "icon4description": "Create a successful and performant eCommerce made by winning products ",
+        "icon5title": "Crypto",
+        "icon5description": "Achieve business success with AI-powered KPI analysis and data insights.",
+        "icon6title": "IIoT",
+        "icon6description": "Create your custom SCADA with Mobile AI and Analytics Technologies.",
+        "icon7title": "Apps",
+        "icon7description": "Build secure, decentralized Web3 applications for a decentralized future.",
+        "icon8title": "Advertising",
+        "icon8description": "Revolutionize your marketing with innovative advertising solutions"
+    },
+
+    "abouthome": {
+        "title": "Customer Success Through Human Support",
+        "description": "Elevate customer satisfaction and loyalty with our comprehensive approach to customer success. Our personalized support and commitment to your success sets us apart and drives long-term relationships.",
+        "review1": "“As a CEO, I highly recommend our marketing solutions to drive business growth. With a focus on data-driven strategies and innovative technologies, our team delivers results that exceed expectations. Their commitment to customer success has been a game-changer for our company.”",
+        "review2": "“Discover the future of education with Wewe University, created by the visionary team at lvdere and Diego Endrizzi. Our platform offers a personalized and engaging learning experience, with expert-led courses and 24/7 support. Join the thousands of students who have taken control of their careers with Wewe University. Invest in your future today!”",
+        "review3": "“It is very important for us to keep abreast of the latest developments and to navigate freely in the information space, the resources of Medialogy allow us to do this. Every day we can conduct operational monitoring of the media and analyze data online, this saves the time of analysts and journalists. ””"
+    },
+
+    "footerhome": {
+        "subtitle": "UPSKILL FOR A BETTER FUTURE",
+        "title": "Request More Information",
+        "description": "Lvdere is a cutting-edge technology company specializing in innovative solutions. Get more information by clicking now! Discover how Lvdere is revolutionizing the industry.",
+        "cta": "Join Today in Our Community"
+    },
+    "herocommunity": {
+        "title": "Community Pro",
+        "description": "We offer customized solutions for businesses of all sizes and industries, helping them to increase revenue, improve customer satisfaction, and stay ahead of the competition. Our services include market analysis, customer behavior analysis, predictive modeling, and more.",
+        "cta": "Join Today in Our Community"
+    },
+    "optimisticcommunity": {
+        "title": "Get Results Before the Market",
+        "description1": "Are you tired of always being one step behind the market? Our community is here to help! We provide insider information and expert analysis to help you stay ahead of the curve.",
+        "description2": "Plus, our academy offers courses on the latest technologies and communication strategies, so you can stay up-to-date and competitive in your field. Join us today and start making smarter, more informed decisions for your business."
+    },
+    "serviceselectcommunity": {
+        "title": "What you get",
+
+        "service1title": "Web3 Starter Pack",
+        "service1description": "Unlock the potential of web3 technology with our Web3 Starter Pack! Our Lvdere Academy Pro course teaches you how to use Ledger Nano S to protect your crypto currencies and Notarify to safeguard legal documents globally in web3. Stay ahead of the curve and secure your digital assets with our pack! (The shipping of the Ledger Nano S and the activation of Notarify Standard is included) ",
+
+        "service2title": "Exclusive Community",
+        "service2description": "Welcome to our Exclusive Community, where you'll gain access to insider information before the market. Stay ahead of the curve with our expert insights and analysis, and connect with like-minded individuals who share your passion for innovation and growth. Join us today and unlock the power of knowledge.",
+
+        "service3title": "Lvdere Academy Pro",
+        "service3description": "Lvdere Academy Pro offers courses on Web3, Crypto, AI, and IIoT. Taught by industry experts, our hands-on projects and interactive learning tools will help you master these cutting-edge technologies and gain a competitive edge in the digital age. Join us today and become a leader in the future of business.",
+
+        "service4title": "Live Webinars & Tutoring",
+        "service4description": "Join our Live Webinars and Tutoring sessions to gain a deeper understanding of the latest technologies and trends shaping the future of business. Our expert instructors will guide you through hands-on projects and real-world case studies, helping you master the skills you need to succeed in today's digital landscape.",
+
+        "service5title": "Technical Support",
+        "service5description": "At our Exclusive Community, we offer two exclusive supports to help you navigate the complex world of digital technologies. Our Crypto Security support provides 2 hours per month of expert guidance to help you protect your digital assets and ensure the safety of your transactions. Our AI Implementation support offers 2 hours per month of personalized coaching to guide you through the process of integrating AI into your business, from strategy to implementation. Join us today and gain access to these invaluable resources.",
+
+        "step1title": "Join our Exclusive Community: Unlock the Power of Knowledge",
+        "step1description": "Join our Exclusive Community and gain access to insider information before the market. Connect with like-minded individuals who share your passion for innovation and growth, and stay ahead of the curve with our expert insights and analysis.",
+
+        "step2title": "Learn from the Best: Master the Latest Technologies",
+        "step2description": "Learn from industry experts with real-world experience in Web3, Crypto, AI, and IIoT. Our Live Webinars and Tutoring sessions will guide you through hands-on projects and real-world case studies, helping you master the skills you need to succeed in today's digital landscape.",
+
+        "step3title": "Get Personalized Support: Navigate the Complex World of Digital Technologies",
+        "step3description": "Our exclusive Crypto Security and AI Implementation supports provide 2 hours per month of expert guidance to help you protect your digital assets, ensure the safety of your transactions, and guide you through the process of integrating AI into your business. Join us today and gain access to these invaluable resources.",
+
+        "cta": "Join Today in Our Community"
+    },
+    "videosectioncommunity": {
+        "card1number": "Videos & Exercises",
+        "card2number": "Entrepreneurs & Investors",
+        "card3number": "Webinars & Meetings",
+        "card4number": "Technical Intervents"
+    },
+    "faqcommunity": {
+        "faqtitle": "FAQ: Community Pro",
+        "faqsubtitle": "Where we answer your questions about our academy and exclusive community",
+
+        "question1": "What is Community Pro?",
+        "answer1": "Community Pro is our exclusive community for individuals and businesses looking to stay ahead of the curve in the digital age. Members gain access to insider information, expert insights, and personalized support to help them succeed.",
+
+        "question2": "What kind of value does Community Pro offer?",
+        "answer2": "Community Pro offers a range of benefits, including access to our academy courses on Web3, Crypto, AI, and IIoT, exclusive Crypto Security and AI Implementation supports, and Live Webinars and Tutoring sessions with industry experts.",
+
+        "question3": "How can Community Pro help me advance my career or business?",
+        "answer3": "By joining Community Pro, you'll gain access to a network of like-minded individuals and experts in the field. You'll also have access to cutting-edge technologies and trends, helping you stay ahead of the curve and become a leader in your industry.",
+
+        "question4": "What is included in the Community Pro subscription?",
+        "answer4": "The Community Pro subscription includes access to our academy courses, exclusive Crypto Security and AI Implementation supports, Live Webinars and Tutoring sessions, and a range of other benefits. We offer both Annual and Trimestral plans to fit your needs.",
+
+        "question5": "How can I join Community Pro",
+        "answer5": "You can join Community Pro by visiting our website and selecting the subscription plan that best fits your needs. We offer flexible pricing options and a range of benefits to help you succeed. Join us today and unlock the power of knowledge!"
+    },
+    "faqsubscription": {
+        "faqtitle": "FAQ: Subscription",
+        "faqsubtitle": "Where we answer your questions about our academy and exclusive community",
+
+        "question1": " What payment options do you offer?",
+        "answer1": "We accept all major credit cards, including Visa, Mastercard, and American Express. We also offer the option to pay via PayPal.",
+
+        "question2": "What is the difference between the Annual and Trimestral plans?",
+        "answer2": "The Annual plan offers a full year of access to our courses at a discounted rate of 997€. The Trimestral plan offers 3 months of access at a rate of 297€. Both plans offer the same courses and features.",
+
+        "question3": "Can I switch between plans?",
+        "answer3": "Yes, you can switch between plans at any time. If you switch from the Trimestral plan to the Annual plan, we will prorate your payment based on the time remaining in your current subscription.",
+
+        "question4": "Is there a free trial available?",
+        "answer4": "We do not offer a free trial at this time, but we do offer a 30-day money-back guarantee. If you are not satisfied with our courses, we will refund your payment in full.",
+
+        "question5": "How do I cancel my subscription?",
+        "answer5": "You can cancel your subscription at any time by contacting our customer support team. If you cancel within the first 30 days, we will refund your payment in full. After 30 days, we will not offer refunds for cancellations."
+    },
+    "cardcommunity": {
+        "plan1": "Trimestral Plan",
+        "plan2": "Yearly Plan",
+
+        "price1": "297€/ every 3 months",
+        "price2": "997€/year",
+
+        "plan1bullet1": "Web 3 Starter Pack (Ledger Nano S and Notarify Standard Included)",
+        "plan1bullet2": "Exclusive Community on App",
+        "plan1bullet3": "Lvdere Academy Pro",
+        "plan1bullet4": "Live Webinars & Tutoring",
+        "plan1bullet5": "2 hrs Personal Technical Support/Month",
+
+        "plan2bullet1": "Everything of Trimestral Plan",
+        "plan2bullet2": "+20% Discount Yearly",
+        "plan2bullet3": "Exclusive Events",
+        "plan2bullet4": "Prioritary Support",
+        "plan2bullet5": "4 hrs Personal Technical Support/Month",
+
+        "cta1text": "Subscribe Now",
+        "cta2text": "Subscribe Now"
+    },
+    "portfolioprojects": {
+        "title": "Projects & Customers",
+        "subtitle": "Our services include AI-powered KPI analysis, innovative advertising, secure Web3 apps, reliable hosting & email, and a commitment to customer success. We offer a comprehensive solution for financial growth and technological advancement.",
+
+        "description1": "WeeBo is an Italian web hosting company based in Trentino that specializes in boosting the speed and performance of websites in Italy. With WeeBo's cutting-edge hosting solutions, Italian businesses can enjoy fast and reliable website loading times, providing a seamless experience for their users. WeeBo's commitment to quality and service make it the go-to choice for web hosting in Trentino.",
+        "description2": "Travel Fly Store is an eCommerce platform that specializes in providing travelers with the latest and greatest gadgets and accessories. From smart luggage to compact travel essentials, Travel Fly Store has everything you need to make your travels easier and more enjoyable. With a user-friendly website, fast shipping, and a commitment to quality, Travel Fly Store is the go-to destination for travelers who want to fly in style. Whether you're commuting to work or embarking on a grand adventure, Travel Fly Store has got you covered.",
+        "description3": "We utilized TikTok ads to target a highly engaged Italian audience, driving awareness and interest in Centro Estetico Andino. By strategically showcasing the beauty center's services and promotions, we were able to increase foot traffic and drive new business. Our data-driven approach and expertise in social media advertising allowed us to effectively reach the right audience, resulting in a successful campaign and increased traffic for our client.",
+        "description4": "We helped Au Zealous, a Spain-based precious metals investment company, increase its online visibility and attract more investors with targeted digital marketing strategies. Our data-driven approach and expertise in the industry resulted in a significant increase in website traffic and lead generation, boosting Au Zealous's reputation as a trusted investment firm.",
+
+        "cta": "Contact Us"
+    },
+    "servicecontact": {
+        "title": "PUSH START and realise your project with us",
+        "description": "Our company is dedicated to helping you reach your financial goals and secure a brighter future. With our comprehensive range of services, you can take control of your investments, build your brand, and stay ahead of the technological curve.",
+        "icon1title": "Web3",
+        "icon1description": "Build secure, decentralized Web3 applications for a decentralized future.",
+        "icon2title": "AI",
+        "icon2description": "Achieve business success with AI-powered KPI analysis and data insights.",
+        "icon3title": "Hosting",
+        "icon3description": "Experience reliable and secure hosting and email services for your business.",
+        "icon4title": "eCommerce",
+        "icon4description": "Create a successful and performant eCommerce made by winning products ",
+        "icon5title": "Crypto",
+        "icon5description": "Achieve business success with AI-powered KPI analysis and data insights.",
+        "icon6title": "IIoT",
+        "icon6description": "Create your custom SCADA with Mobile AI and Analytics Technologies.",
+        "icon7title": "Apps",
+        "icon7description": "Build secure, decentralized Web3 applications for a decentralized future.",
+        "icon8title": "Advertising",
+        "icon8description": "Revolutionize your marketing with innovative advertising solutions",
+
+        "start": "Start"
+    }
+}
