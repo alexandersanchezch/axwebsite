@@ -33,7 +33,7 @@ const Navbar = ({ menu1, menu2, menu3 }) => {
         <div id="navbar">
             <div className="container-fluid">
                 <Link to="/" className="logo">
-                    <img src="./assets/vector/logo.svg" alt="logo" />
+                    <img src="./assets/vector/alexandersanchez.svg" alt="logo" />
                 </Link>
                 <div className="translation-icon">
                     <img
