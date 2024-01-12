@@ -3,7 +3,8 @@
         "select": "Selecciona tu idioma preferido: ",
         "en": "Inglés",
         "it": "Italiano",
-        "es": "Español"
+        "es": "Español",
+        "de": "Aleman"
     },
     "navbar": {
         "menu1": "Community Pro",

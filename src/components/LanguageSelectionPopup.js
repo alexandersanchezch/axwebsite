@@ -20,6 +20,11 @@ function LanguageSelectionPopup({ onClose, select, en, es, it }) {
                     </button>
                 </li>
                 <li>
+                    <button onClick={() => changeLanguage('de')}>
+                        {t('translation.de')}
+                    </button>
+                </li>
+                <li>
                     <button onClick={() => changeLanguage('es')}>
                         {t('translation.es')}
                     </button>

@@ -6,14 +6,13 @@
         "es": "Español"
     },
     "navbar": {
-        "menu1": "Community Pro",
-        "menu2": "Progetti",
-        "menu3": "Servizi e Contatti"
+        "menu1": "Course: Bard",
+        "menu2": "Course: Industrial AIoT"
     },
     "herohome": {
         "title": "Salva Dati, Risparmia Energia, Risparmia Tempo",
         "description": "Offriamo soluzioni personalizzate per aziende di tutte le dimensioni e settori, aiutandole ad aumentare il fatturato, migliorare la soddisfazione del cliente e rimanere al passo con la concorrenza. I nostri servizi includono l'analisi di mercato, l'analisi del comportamento del cliente, la modellizzazione predittiva e altro ancora.",
-        "cta": "Contattaci"
+        "cta": "Contattami"
     },
     "serviceshome": {
         "title": "Siamo ottimisti che amano lavorare insieme.",

@@ -5,11 +5,6 @@ import LanguageSelectionPopup from './LanguageSelectionPopup'
 
 const Navbar = ({ menu1, menu2, menu3 }) => {
     const { i18n } = useTranslation()
-
-    // const changeLanguage = (lng) => {
-    //     i18n.changeLanguage(lng)
-    // }
-
     const [isSideNavActive, setisSideNavActive] = useState(false)
     const [isLanguagePopupVisible, setIsLanguagePopupVisible] = useState(false)
 
@@ -33,7 +28,7 @@ const Navbar = ({ menu1, menu2, menu3 }) => {
         <div id="navbar">
             <div className="container-fluid">
                 <Link to="/" className="logo">
-                    <img src="./assets/vector/alexandersanchez.svg" alt="logo" />
+                    <img src="/assets/vector/alexandersanchez.svg" alt="logo" />
                 </Link>
                 <div className="translation-icon">
                     <img
@@ -64,18 +59,6 @@ const Navbar = ({ menu1, menu2, menu3 }) => {
                     <li className="nav-item">
                         <Link onClick={hideSideNav} to="/community-pro">
                             {menu1}
-                        </Link>
-                    </li>
-
-                    <li className="nav-item">
-                        <Link onClick={hideSideNav} to="/projects">
-                            {menu2}
-                        </Link>
-                    </li>
-
-                    <li className="nav-item">
-                        <Link onClick={hideSideNav} to="/contact">
-                            {menu3}
                         </Link>
                     </li>
 

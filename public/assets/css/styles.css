@@ -37,7 +37,7 @@
 }
 
 .darkest-blue {
-  color: #020054;
+  color: #0E1826;
 }
 
 .light-blue {
@@ -49,7 +49,7 @@
 }
 
 .green {
-  color: #2baa4a;
+  color: #BF8D50;
 }
 
 .dark-gray {
@@ -57,7 +57,7 @@
 }
 
 .color4 {
-  color: #02395a;
+  color: #595439;
 }
 
 :root {
@@ -297,7 +297,7 @@ button {
 .nav-item a:not(.btn-header):after {
   content: "";
   position: absolute;
-  background-color: #2baa4a;
+  background-color: #BF8D50;
   width: 0;
   height: 2px;
   left: 50%;
@@ -321,7 +321,7 @@ button {
 }
 
 .btn {
-  background-color: #2baa4a;
+  background-color: #BF8D50;
   color: #fff;
   padding: 1rem 2.85rem;
   font-weight: bold;
@@ -340,7 +340,7 @@ button {
 }
 
 .swiper-pagination-bullet {
-  background-color: #2baa4a !important;
+  background-color: #BF8D50 !important;
   margin: 0 2px !important;
   -webkit-transition: 0.4s ease;
   transition: 0.4s ease;
@@ -387,7 +387,7 @@ button {
   top: 50%; /* Centered vertically */
   left: 50%; /* Centered horizontally */
   transform: translate(-50%, -50%); /* Adjust position according to element dimensions */
-  background-color: #02395a;
+  background-color: #595439;
   border: 1px solid #ccc;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   z-index: 1;
@@ -425,7 +425,7 @@ button {
   top: 0;
   left: 0;
   right: 0;
-  background-color: #020054;
+  background-color: #0E1826;
   padding: 1.5rem;
   z-index: 5;
   z-index: 100000 !important;
@@ -468,7 +468,7 @@ button {
         -ms-flex-direction: column;
             flex-direction: column;
     background: #fff;
-    background: #020054;
+    background: #0E1826;
     top: 0;
     padding: 2rem;
     width: 100%;
@@ -536,7 +536,7 @@ button {
 }
 
 #navbar .nav .nav-item .btn-header {
-  border: 1px solid #2baa4a;
+  border: 1px solid #BF8D50;
   padding: 0.75rem 2rem;
   border-radius: 5px;
   -webkit-transition: 0.4s ease;
@@ -552,13 +552,13 @@ button {
 #navbar .nav .nav-item .btn-header:hover {
   opacity: 1;
   border-color: transparent;
-  background-color: #2baa4a;
+  background-color: #BF8D50;
 }
 
 #hero {
   position: relative;
   padding: 10rem 0 7rem;
-  background-color: #020054;
+  background-color: #0E1826;
   z-index: 1;
 }
 
@@ -704,7 +704,7 @@ button {
 }
 
 #services .text h2 {
-  color: #020054;
+  color: #0E1826;
 }
 
 @media screen and (max-width: 595px) {
@@ -754,7 +754,7 @@ button {
 }
 
 #services .cards-container .card .text h4 {
-  color: #020054;
+  color: #0E1826;
   font-size: 20px;
 }
 
@@ -817,7 +817,7 @@ button {
 }
 
 #about h2 {
-  color: #020054;
+  color: #0E1826;
 }
 
 @media screen and (max-width: 1060px) {
@@ -938,7 +938,7 @@ button {
 }
 
 #about .testimonial .header .user-info h6 {
-  color: #020054;
+  color: #0E1826;
   font-weight: bold;
 }
 
@@ -997,7 +997,7 @@ button {
 }
 
 #portfolio {
-  background-color: #020054;
+  background-color: #0E1826;
   padding: 8rem 3rem;
 }
 
@@ -1044,7 +1044,7 @@ button {
 
 #portfolio .card .text {
   margin-top: -7px;
-  background-color: #02395a;
+  background-color: #595439;
   padding: 1.5rem 1.5rem;
   color: #fff;
 }
@@ -1065,7 +1065,7 @@ button {
 }
 
 #footer {
-  background-color: #02395a;
+  background-color: #595439;
   text-align: center;
   padding: 5rem;
 }
@@ -1384,7 +1384,7 @@ button {
 }
 
 .services_selector_cards .services_selector_card .services_selector_card_title {
-  color: #020054;
+  color: #0E1826;
 }
 
 .services_selector_cards .services_selector_card.active {
@@ -1392,11 +1392,11 @@ button {
 }
 
 .services_selector_cards .services_selector_card.active .services_selector_card_title {
-  color: #2baa4a;
+  color: #BF8D50;
 }
 
 .services_selector_btn {
-  background: #2baa4a;
+  background: #BF8D50;
   border-radius: 4px;
   color: white;
   text-transform: uppercase;

@@ -3,7 +3,8 @@
         "select": "Select your preferred Language: ",
         "en": "English",
         "it": "Italiano",
-        "es": "Español"
+        "es": "Español",
+        "de": "German"
     },
 
     "navbar": {

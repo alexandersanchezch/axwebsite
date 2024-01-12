@@ -20,8 +20,7 @@ const Footer = ({ title, subtitle, description, cta }) => {
                         </div>
 
                         <p className="copyright mt-5 mb-5">
-                            &copy;COPYRIGHT 2023 lvdere powered by Eneo Meci |
-                            P.IVA 02670270228
+                            &copy;COPYRIGHT 2024 | Alexander Sanchez
                         </p>
                     </div>
                 </Slide>
@@ -30,7 +29,10 @@ const Footer = ({ title, subtitle, description, cta }) => {
 
                 <div className="nav">
                     <div className="logo">
-                        <img src="./assets/vector/logo.svg" alt="logo" />
+                        <img
+                            src="/assets/vector/alexandersanchez.svg"
+                            alt="logo"
+                        />
                     </div>
                     <ul className="nav">
                         <li className="nav-item">
