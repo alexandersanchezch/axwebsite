@@ -18,7 +18,7 @@ function Community() {
                 menu3={t('navbar.menu3')}
             />
             <Hero
-                img="./assets/img/hero.png"
+                img="./assets/img/herocommunitypro.png"
                 dots={true}
                 btnText={t('herocommunity.cta')}
                 btnLink="https://chat.whatsapp.com/F2orSvSqDpnB57CLseLp7X"
