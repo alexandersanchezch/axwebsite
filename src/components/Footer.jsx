@@ -72,7 +72,7 @@ const Footer = ({ title, subtitle, description, cta }) => {
                             </a>
                         </div>
                         <div className="item">
-                            <a href="https://wa.me/message/D6LL2W3L7WMJL1">
+                            <a href="https://chat.whatsapp.com/F2orSvSqDpnB57CLseLp7X">
                                 <img
                                     src="./assets/vector/whatsapp.svg"
                                     alt="whatsapp"

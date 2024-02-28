@@ -6,7 +6,6 @@ import Optimistic from '../components/Optimistic'
 import ServiceSelect from '../components/ServiceSelect'
 import VideoSection from '../components/VideoSection'
 import Faq from 'src/components/Faq'
-import Twocards from 'src/components/Twocards'
 import { useTranslation } from 'react-i18next'
 
 function Community() {
@@ -22,7 +21,7 @@ function Community() {
                 img="./assets/img/hero.png"
                 dots={true}
                 btnText={t('herocommunity.cta')}
-                btnLink="#subscription"
+                btnLink="https://chat.whatsapp.com/F2orSvSqDpnB57CLseLp7X"
                 title={t('herocommunity.title')}
                 subtitle={t('herocommunity.description')}
             />
@@ -60,7 +59,7 @@ function Community() {
                 step3title={t('serviceselectcommunity.step3title')}
                 step3description={t('serviceselectcommunity.step3description')}
                 cta={t('serviceselectcommunity.cta')}
-                ctalink="#subscription"
+                ctalink="https://chat.whatsapp.com/F2orSvSqDpnB57CLseLp7X"
             />
             <VideoSection
                 card1number={t('videosectioncommunity.card1number')}
@@ -97,27 +96,6 @@ function Community() {
                 faq4answer={t('faqsubscription.answer4')}
                 faq5question={t('faqsubscription.question5')}
                 faq5answer={t('faqsubscription.answer5')}
-            />
-
-            <Twocards
-                plan1={t('cardcommunity.plan1')}
-                plan2={t('cardcommunity.plan2')}
-                price1={t('cardcommunity.price1')}
-                price2={t('cardcommunity.price2')}
-                plan1bullet1={t('cardcommunity.plan1bullet1')}
-                plan1bullet2={t('cardcommunity.plan1bullet2')}
-                plan1bullet3={t('cardcommunity.plan1bullet3')}
-                plan1bullet4={t('cardcommunity.plan1bullet4')}
-                plan1bullet5={t('cardcommunity.plan1bullet5')}
-                plan2bullet1={t('cardcommunity.plan2bullet1')}
-                plan2bullet2={t('cardcommunity.plan2bullet2')}
-                plan2bullet3={t('cardcommunity.plan2bullet3')}
-                plan2bullet4={t('cardcommunity.plan2bullet4')}
-                plan2bullet5={t('cardcommunity.plan2bullet5')}
-                cta1text={t('cardcommunity.cta1text')}
-                cta2text={t('cardcommunity.cta2text')}
-                cta1link="https://buy.stripe.com/cN29CseZV6TYcJafZ1"
-                cta2link="https://buy.stripe.com/fZe7uk1956TYaB25km"
             />
 
             <Footer
