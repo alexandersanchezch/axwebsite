@@ -14,7 +14,7 @@ const Footer = ({ title, subtitle, description, cta }) => {
                         <h6 className="mx-auto mb-5">{description}</h6>
 
                         <div>
-                            <a href="/contact">
+                            <a href="https://chat.whatsapp.com/F2orSvSqDpnB57CLseLp7X">
                                 <button className="btn">{cta}</button>
                             </a>
                         </div>
